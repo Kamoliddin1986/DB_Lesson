@@ -1,5 +1,5 @@
 const express = require('express')
-const { loadavg } = require('os')
+
 
 const userRouter = require("./router/user.router")
 
